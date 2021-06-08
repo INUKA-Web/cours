@@ -5,6 +5,7 @@ Dans ce projet, vous trouverez les informations données en cours et les liens v
 Pages des UEs Web :
 
 - https://perso.liris.cnrs.fr/lionel.medini/enseignement/M1IF03/
+  - Vu le 08/06 : CM0, CM1, CM3
 - https://perso.liris.cnrs.fr/lionel.medini/enseignement/M1IF13/
 
 Sites visités pendant le CM :
