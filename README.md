@@ -8,7 +8,7 @@ Pages des UEs Web :
   - Vu le 08/06 : CM0, CM1, CM3
 - https://perso.liris.cnrs.fr/lionel.medini/enseignement/M1IF13/
 
-Sites visités pendant le CM :
+Sites visités pendant le CM du 08/06 :
 
 - https://www.w3schools.com/
 - https://httpstatusdogs.com/
